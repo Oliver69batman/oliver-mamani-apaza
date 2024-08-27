@@ -1,0 +1,10 @@
+body{background-color: red;padding: 20px; border-radius: 50%;
+}
+.b1{background-color: green;padding: 20px;border-radius: 50%; width: 500px;height: 500px;}
+.b2{background-color: yellow;padding: 20px;border-radius: 50%;width: 460px;height: 460px;}
+.b3{background-color: lightblue;padding: 20px;border-radius: 50%;width: 420px;height: 420px;}
+.b4{background-color: lime;padding: 20px;border-radius: 50%;width: 380px;height: 380px;}
+.b5{background-color: blue;padding: 20px;border-radius: 50%;width: 340px;height: 340px;}
+.b6{background-color: gray;padding: 20px;border-radius: 50%;width: 300px;height: 300px;}
+.b7{background-color: violet; padding: 20px; border-radius: 50%;width: 260px;height: 260px;}
+.espacio{width: 100%; height: 50px;}
